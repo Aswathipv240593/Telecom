@@ -1,8 +1,14 @@
+import org.testng.annotations.Test;
 
-public class tele1 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class tele1 
+{
+
+	@Test
+	public void demo()
+	{
+		System.out.println("hiiiiiiiiiiiiiiiiiiiiiii");
+		
 
 	}
 
